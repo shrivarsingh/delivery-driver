@@ -25,6 +25,10 @@
 
 # Visual Studio cache directory
 .vs/
+<<<<<<< HEAD
+=======
+.vscode/
+>>>>>>> 9b4d605 (Added project files)
 
 # Gradle cache directory
 .gradle/
@@ -69,4 +73,8 @@ crashlytics-build.properties
 
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
+<<<<<<< HEAD
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+=======
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+>>>>>>> 9b4d605 (Added project files)
